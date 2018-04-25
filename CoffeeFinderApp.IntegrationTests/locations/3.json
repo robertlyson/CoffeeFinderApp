@@ -1,0 +1,796 @@
+{
+	"html_attributions": [],
+	"results": [{
+			"geometry": {
+				"location": {
+					"lat": 49.6098802,
+					"lng": 19.9543515
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.61105912989272,
+						"lng": 19.95555792989272
+					},
+					"southwest": {
+						"lat": 49.60835947010728,
+						"lng": 19.95285827010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "763cca2974f07338be85264a7f433422cfc50d0b",
+			"name": "Cafe Słodka",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/105445944531052719230/photos\"\u003eRadosław Wilk\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAzk5TooAZ4T8bu-WYMdo5QFHzgBqmraZ-0GUGK22HBGD_TqaX0eqvNm890KtHJjTE8Le6Fh4-zuY6_Em1h1p3d-R2DJfQd66J2kbQ7N7oIuOt1nSNSscU32XWsk5Rrm2_EhDBs7V3Xq2MozNA13tkN7EIGhSs7z06FIuC0XrqABRpKIrk4ipGFQ",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJi6ulYJwKFkcRfY-IiHfm8SI",
+			"rating": 4.3,
+			"reference": "CmRbAAAAgCNII2wBIqrFWeEWB1dvFOd3wxIVG6q9eWskTXpht4H2xGDIbrPO1odPBoQ91oMle1LYbwfuQsOR87Mwn36Q01RlSOdlrcEEXlwVrofj1HcKhSdmUcRp12x1L76Sn7DmEhDqEyHwt-piJFEhAWfCUhqAGhQ0M89wwGq7w_oZ3Ve2zSbCs5Otxw",
+			"scope": "GOOGLE",
+			"types": ["cafe", "restaurant", "food", "point_of_interest", "establishment"],
+			"vicinity": "Władysława Orkana 16A, Rabka-Zdrój"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.051342,
+					"lng": 19.9438595
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05267587989272,
+						"lng": 19.94522137989272
+					},
+					"southwest": {
+						"lat": 50.04997622010728,
+						"lng": 19.94252172010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "2cab0463406dd43c0d52282461b56d613f473119",
+			"name": "Mleczarnia",
+			"opening_hours": {
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3120,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/116555413956382432761/photos\"\u003ePavel Lukashin\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAjDpLz6bkKz4eog59tOlv3sUPuICD1JwOiXwv6hiZndcHAPs3BxkajR_fIq6a2hqnhhheQQl3iNrr5mpL7DZ4EzD5BXhChPrdXgFH_Kc_Gne0CMa4RGPFG--mwS_czLTrEhCYQ2GNESs5VBjK3kDs78YNGhRYg6m0t2nITVuX_lTPGnvxPrQ4jQ",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJsSVGRmpbFkcRtRNqge0AmqM",
+			"rating": 4.5,
+			"reference": "CmRbAAAAOXo1bLgDu2QkcT9k1aTsm5jlDnMLT5J8SajuVY_rzLCXuah2tv0ynapAj_p2eA-l_MEX-kAchxF7kvSYlFoEEjHC0I4cXUXlv8qdpaGY5dEWA8V4-QXTVlOvDgC1PDSpEhB0jeYLiSfkpn9WnE4_3Rf7GhQv246gI-vILGPJO85aCDQUA0eIAA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Beera Meiselsa 20, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.059332,
+					"lng": 19.94219
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06070002989272,
+						"lng": 19.94358007989272
+					},
+					"southwest": {
+						"lat": 50.05800037010728,
+						"lng": 19.94088042010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "44c3d081c37ac35096b094b31fd2c43910a9e753",
+			"name": "LAJKONIK-PIEKARNIA I KAWIARNIA",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1365,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/105480720639799392780/photos\"\u003eLAJKONIK-PIEKARNIA I KAWIARNIA\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAF8YwCIHMpBUjDb4F8vlwZ4H6fhGj_G94rIGkjkCthLjyxO4XGf_Fw5REmCBwMsOeVCjTGqog7ZSXPujcXjnJLLx4f92LMGbft9sFrQUinujU8zOu32r_nj9JjS_GoKSUEhB06sof9gdSHsYhhUTwkSQlGhRoC1P9e4wo7qPXP4xZmRJt7F3Srg",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJ59JtvhNbFkcR8e6L4A-IJnM",
+			"rating": 4.6,
+			"reference": "CmRbAAAAnNkBqEeNDM31m45kH5hGEHcgn-v_jzMnwiEdsFKCRJb7tAcs2mHD3pVsTAPhQ4CdWPt9ZXNlZgbkUstpbu9EraXUVgUYBW8nY_J4--vGKbW61aKpmtKgOOtgio2URSAuEhByw-QRl72_N_IgAgq4y3XhGhS8L-X6QWd84ia0AtH1H6bBe9Phxw",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"bakery",
+				"store",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Starowiślna 82, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0604844,
+					"lng": 19.9360734
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06182382989272,
+						"lng": 19.93753382989272
+					},
+					"southwest": {
+						"lat": 50.05912417010728,
+						"lng": 19.93483417010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "87884a35c52289a7f973d2a46da8b6e5195e8294",
+			"name": "Nowa Prowincja",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 546,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/103360132796088941083/photos\"\u003eMarcio Chaves\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAMFFE7b7j97PZE_XiOM0k_cR_u7wYECr1ZbPwTNKOXJLjPvzGwoWinkAgy1fFc2nfeB0KTW2PmB-h--aVKyNP0oc3cAD8b5VZJvRjVM5EqNJc2nA1eBpGI13R3yyHw1khEhCez0HcMrWt6QwWCoW-ruhCGhQVgNjzOwNfLZSNAEVioHcZLm6jPA",
+					"width": 960
+				}
+			],
+			"place_id": "ChIJDVUt7Q1bFkcRQE0Gs4wwVcU",
+			"rating": 4.6,
+			"reference": "CmRbAAAAVTOve6NdX7kgsPMk6vh7j-DqfgZjkMx7WB5Oe4QOBJ3DNXXKYBhRJn8LBrA5tfRRZY-zlAUoniJPTaYiZK5Hs0RDMaSjuixOKquO--aMxIYXGvf7GlW-mM_ZSpKM05NAEhDMueO0s9XhU38vHeKlpxaeGhS1B6ysLeQwhBeRJVHY7gaZZ50oEA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Bracka 3-5, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.05764420000001,
+					"lng": 19.9298028
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05899672989272,
+						"lng": 19.93104767989272
+					},
+					"southwest": {
+						"lat": 50.05629707010727,
+						"lng": 19.92834802010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "992ff622584164c6fee4ffb214eaa95547cf3155",
+			"name": "Cafe Szafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2592,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/118259767815097170455/photos\"\u003eMateusz Podraza\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAPUwnrmTXPCQCjuFaSQ16NDNfyB0nRhfmpDyPaYVwO5yzyIwjhMtqxsXLVZQXDxosJCP3iWXqXYyx2ZJVdoZ0zNFTRq73ad0pAjcuVba0TkEfkkKO8Gpm_eB916XIvXJIEhArgx-3BMUGoAUh947JteP6GhSHAQMmSOwVGtTpLRGK3OkAj5R7pg",
+					"width": 4608
+				}
+			],
+			"place_id": "ChIJF4xFM3NbFkcR6-EQrXetDJw",
+			"rating": 4.4,
+			"reference": "CmRbAAAAybucWz8eq_rUiBTX_TrofIDVJP0xa5R6voAGEbWhD2a-8B6Bjs-I5emk0aLOO8FJQ7WSa-YMiQwoaebHMJwA9chDOtFenWUp-_BzStxZyWvwsRapcXK179awwib2H6NuEhB2zgv_GeFG7iE2S2_Yh0wEGhQDn4sp8f36UfJaXtyXleWGFuPA9Q",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Felicjanek 10, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0519639,
+					"lng": 19.9453865
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05329882989272,
+						"lng": 19.94667687989272
+					},
+					"southwest": {
+						"lat": 50.05059917010727,
+						"lng": 19.94397722010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "b565e8a438d47c58fa65b782d4d247da6a6e5bb9",
+			"name": "Les Couleurs Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3120,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/115050489573090056210/photos\"\u003epaulo mota\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAtsDPaFtOjek3bEHk5dT-qSie3zXlmZ1X0L1_Kt3j0hCYB7SK4R_Ba_lqPxtqK_YkXFhyAD4NJbmjuLyBGQX2Swwpy2cRDUChK2vvPEHg_X75whlAwcL1hNzH552EFD5tEhC9W7faSSr5deDuR7iA26MLGhSgDrzkJfNxJyObXzCiBC6J3gqwYQ",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJ3dnYYGpbFkcRwiWoQv77m1w",
+			"rating": 4.4,
+			"reference": "CmRbAAAAj0CbmQCxW3jivy4xhWLlqH5-bBUhy6YM8ZoKornO8GfEZ8vxrJAl45MWvAplBFwnORmnk79979S_v5FoiBt7Xk0ln0tKAd9AiQTZaVhYeiSHvaYTTzW9RfofReFBuFhzEhCgSXBiL5gWuPFiNSsnrhksGhRCaTMCwVUD4oKrPyFc3UOmHswuNA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Estery 10, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.1404469,
+					"lng": 19.401139
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.14176087989272,
+						"lng": 19.40265802989272
+					},
+					"southwest": {
+						"lat": 50.13906122010728,
+						"lng": 19.39995837010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "d52a1d478e8d6eec52d6e7e6968bad0ed06a41c2",
+			"name": "Zapach Kawy",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 4160,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/108514490481526773334/photos\"\u003egianluca kcho\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAATlfIEFOFvrtIWg9IfM6ZAzROFIgkxQdWffLMsD-oKWzaHpEPhESzEQ0b8ormVmdREYKIxV7NG5WqFiWNFpO6i1PBbJcIloZn-PR2Lj7D4CXYF5jyYtshthK9I_ORMjemEhA7ESh_iCyco8nSazHdAjmnGhQL3L8GRvHP77Paug_DVIOnyXKuww",
+					"width": 3120
+				}
+			],
+			"place_id": "ChIJiwWer7LuFkcRMPArXhgwAQQ",
+			"rating": 4.9,
+			"reference": "CmRbAAAANnFRNHN-ARDbvQebYB_1H528aB7-7wg_TCVoi8vk_BcWs43utJIEzZjEvRjWKr9fw4lYdlrN8deQ6E3OiMzzZGUI3UBujatzDx0eKKd_JyqaQKrTAhgjiCBxbIrmWY8dEhA0tCaAzC1itBqQBViKCJVLGhT99eTRYj-nDMJWpUK-neTkTLt4wA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Aleja Henryka 24, Chrzanów"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0648871,
+					"lng": 19.9294983
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06617672989272,
+						"lng": 19.93087007989272
+					},
+					"southwest": {
+						"lat": 50.06347707010728,
+						"lng": 19.92817042010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "a0882fcf7e2566343ad4f312f703b244a6651bea",
+			"name": "Coffeebook",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 4120,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/109903255442725114794/photos\"\u003eDaniel Myhal\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAcp2mscQ9XY-AtpbXuHJfLArpqsrHC2CPY3o9nzJx_q5JpytVfFA5NDQO1JOfvVmj5t3zm8Du-Tj3RUjS2wckzltzLJa-Q5fmAyie9JF2gRpshvDRgjBLsGYX_SpFvNieEhCYqs_6aDP80uFy0qNoX_2IGhRI8TUzhnCrwWkRu5bNxlvum7KAxA",
+					"width": 2799
+				}
+			],
+			"place_id": "ChIJd4EOEQlbFkcRXCW0r-BL-Hw",
+			"rating": 5,
+			"reference": "CmRbAAAAvuciUc5IQGJQjm0daCstjYD4Ugmhb2IVjTbASivOFt-trwcY5toO2GWKilIrNuaoClRyUK9vWf8Banj6D-h_-K3tyicnWTWKWV73FCBUS5sIwWEuE_uN-bOnO9pnGELFEhAyikO_WwE1S1Lg8HT7SNLPGhR5rplCwqGZVzAIyC2htemxgy_uFQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Rajska 1, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 49.8831172,
+					"lng": 19.4938963
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.88446242989272,
+						"lng": 19.49531062989273
+					},
+					"southwest": {
+						"lat": 49.88176277010727,
+						"lng": 19.49261097010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "f33d72a93901fc324c17c74303b52dfb24b5b14f",
+			"name": "Galicja. Kawiarnia",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3096,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/113924307552330767453/photos\"\u003eAndrzej W\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAi0MTqSEbSLzKOSxtYCWVwwSU-2af368TDYBKBWVxunE0cI2cwOFOiGgovIppxDCGWxnnGhdlHANHM8Ag9c6yZLyAb3K16Q5cS40OuSdrMhLy4DoMqeQvyw-W36hUJyctEhAnYsRth_W2HvMGsshsbS0qGhTgKe5YoBNT19a80XlewSCaMInJAA",
+					"width": 4128
+				}
+			],
+			"place_id": "ChIJZYWGvMaIFkcR4qNJhutLktA",
+			"rating": 4.4,
+			"reference": "CmRbAAAA7JETIb6guXCmDC15mPRB1hxi5-VKNgoHEY9JUolA3Lpj2FdOQxXf3XJ3bx3rD5T_0AyRQwC3XySp3pLGaNKRcASKjW7-g33deVM4MjKJA0xohlsDoSzN2SNV7KfRuYZMEhA4AEGKM0H87xo_ZJQEJOcdGhQodxbgZr-j6OwELFPyNWsHqcvoLg",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Kościelna 5, Wadowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.048117,
+					"lng": 19.9454098
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.04949612989272,
+						"lng": 19.94679852989272
+					},
+					"southwest": {
+						"lat": 50.04679647010728,
+						"lng": 19.94409887010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "14f0de8efd0b7ec3e751d77cea74343f36b4ae0e",
+			"name": "LOKATOR coffee & books",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2448,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/118056518327923143010/photos\"\u003eJan Krakowian\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAACO6SjVNT9tQrYKZLkS0Y2psGSrkLEjRII3EsYDLCn6yh2ARzxwrsqe9UnbTxwwCGCzuQEO6NgZ65cjJXeBCNcT_Z9ZPb3VwOasqtUZYYqOHZ9adL9ndijC1ouo70HKv1EhDynLEZYkt8AT8ETtzCzxXeGhQ0p9VUKQfCjbhsnw5fioBFfn6ReQ",
+					"width": 3264
+				}
+			],
+			"place_id": "ChIJc4bBckJbFkcRBsP-ATbcDtY",
+			"rating": 4.7,
+			"reference": "CmRbAAAAAL6BMXZtbQcxMIllpHFkWLItleWm4zavdt3d0JmkVlafqNVJPbHFjl6rd-_Y_FtiuFSeXCCdssESPtAQt9X73K6fuzafgcaCO_Yi4V42rX0z2FOj5MdGCYiegUYMZCYbEhAZXDVdF3c7baLmOHjU5T6LGhTqlyPqNdH7vSNvZL4D47CgfMXXEA",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"art_gallery",
+				"book_store",
+				"store",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Mostowa 1, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0573311,
+					"lng": 19.9313
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05865737989272,
+						"lng": 19.93261722989272
+					},
+					"southwest": {
+						"lat": 50.05595772010727,
+						"lng": 19.92991757010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "e4e4f1cb5ed3d098601491ee208080d109fdcea8",
+			"name": "Cafe Indalo",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 800,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/109903255442725114794/photos\"\u003eDaniel Myhal\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA929SXypMsT1VkWxiE2MiHtIIZQbb6PrMhg-KqUNryTcWVei1o8KXdb0r3TxyRy1uLD7xiMGNgC6p5Ftz5aATEiTp3yhlg6zc_pf9zdb0h0n3Gi3m8oNwiIEEod2bFH2QEhB0rvzpUUlgRlFhySaRMRl4GhTatcMGd5qbH759T-6-6_CSW3NdCw",
+					"width": 1200
+				}
+			],
+			"place_id": "ChIJrUvG1HJbFkcRPVT1mUMR7qE",
+			"rating": 4.7,
+			"reference": "CmRbAAAAKCERZJXyaNw39n0BWIXubLZ_W2H0oVsDSQfkJts1tFAX_QNl0KxiE00xwy0LeOyT9Qpm4bL8JI_CL24NIcToqLHUS-pdCQxjPNwMVpeUUWNC7JXRT4Usa4YMrIYG5UI5EhCo8mZeX4dZKUdnQQnX5KMAGhSpUYhj8-_oI0BcGKLObP_6J6JCdQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Tarłowska 15, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0600918,
+					"lng": 19.9378641
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06143742989272,
+						"lng": 19.93914047989272
+					},
+					"southwest": {
+						"lat": 50.05873777010728,
+						"lng": 19.93644082010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "c8e9fc157aa436e7179826d0f2f5b50979d0942c",
+			"name": "Café Zakątek",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/102542657372980770117/photos\"\u003eJulio Bocanegra\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAvh4G8ptTmv1mtdHwV97xto9JwUX2Mk4avymNhldUVjYlZAg8ibG7XACjMdrLlH0wnYOBEAZ9zTzRkQ_WrkXPeos2V08tC08OUNxXiPx2cYXIiGB74AJHz5KRAQ67QxRcEhCs7e6kgJxBxoCQ1fH6tHvcGhRUGVIXPDY3QY9S1lS90yUkv99BAA",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJPVYdcxJbFkcRBFs8vr214ok",
+			"rating": 4.2,
+			"reference": "CmRbAAAApH2RyjMrAlJiVQDmUB8TKwEWBZKhA5cp5zzAhQRUIz5maRuTGJcGW91B9oDOeXySGIWhYxI39k3J1khKdxVcEhag85BFt4NkSyFQl_u9P1VXKcPB-4KElNn_BA-3FRdcEhAYr5o_zH4-vFBfSovk8mu9GhTl9rfpUj2XPMdi1Amr55FMjL42Qg",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Grodzka 2, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0610653,
+					"lng": 19.9385508
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06247227989272,
+						"lng": 19.93972742989272
+					},
+					"southwest": {
+						"lat": 50.05977262010727,
+						"lng": 19.93702777010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "fc9a7949d2f5609924e5523d69c58cb953fa9d29",
+			"name": "Café Numero",
+			"photos": [{
+					"height": 1168,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/112406567224614976186/photos\"\u003eMariusz B\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA9zyPF_3nZ9GRT7t4Gw5iSDfT451v1DKvyMrOv8qlbS3fzNNpgqc-n3vRPZykcIK0d1w3f13kcpx65nqutp-VipiH9xblbZxWNXUn6fJ7rp1517yKMF_B2w5QK9enWDhJEhCYNq5dtngEXfgxGQKzunALGhS79MGP73dYUqaINRd-vGseg9sdLg",
+					"width": 2640
+				}
+			],
+			"place_id": "ChIJoXoZBBJbFkcRWD-GslXWJac",
+			"rating": 5,
+			"reference": "CmRbAAAAuRZY_W-47Mw8qd5Qo6c1bCzVXkCFI_AK-9GQfVBOwqi8_63QdH45dSaYyskWY9kdNXwbXWuiWoyGlijiVVa0jNQrxZ4m_hwXY6BOYr0tbU4U0HUF0WzY71nfT9grcRkhEhAtYaHhSJEzODMp1wAthTxkGhS2ih5Mr1X8r7XjZ-gw2f62l3t1CQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Rynek Główny 6, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 49.7418315,
+					"lng": 19.6007227
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.74318132989272,
+						"lng": 19.60207252989272
+					},
+					"southwest": {
+						"lat": 49.74048167010728,
+						"lng": 19.59937287010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "83fbbfcedd1b22c7f11a8876d76883fb8726dbe4",
+			"name": "Cofeina Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 551,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/103046942261525448284/photos\"\u003eA Google User\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAAmZU_tUu9rYLRzt8wifHkkdCZtqjenStxO4VyScRBD0QKtCdF68Tj27U04neNBxQn9Bh3uYuZWXnIVP-CdqCDqBl0d98USQURzWU4VmjQ5xPWjP7OBUcLgDSn7HMwK0GEhBrcz-gXKy39hP68yFiFEqiGhRVuYI0IuFr0VBEZ7EAAt1e-1Lh-g",
+					"width": 960
+				}
+			],
+			"place_id": "ChIJ0SupWLt-FkcR8M9pGXiAnjo",
+			"rating": 4.6,
+			"reference": "CmRbAAAA_B1p_EWoy3QayQfOn6vnS4Z8KFKt9hjzNnpoU2eHUSoAIqrbI5qmwNG_eBmbtfpqSUAg2dqWH1R8qFBVO69ZQH7gXWdaBCmbbByhMq6GfaCXzLgrP2gxxJCY8faw_IHqEhB6fN4d4yHT9HPGBT_NfwBiGhSo3WThjEVT2fQdGMqokWpleec5dQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+			"vicinity": "Rynek 20, Sucha Beskidzka"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.085883,
+					"lng": 19.89469
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.08732122989272,
+						"lng": 19.89609047989272
+					},
+					"southwest": {
+						"lat": 50.08462157010727,
+						"lng": 19.89339082010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "1f8f79367a6a951e0dfb0839308b0bdb1bd5e18d",
+			"name": "R77Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1536,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/111817520453517408454/photos\"\u003eR77Cafe\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAIT1tJPhtGHOJt_pa5kcwONeMZwrKnciAYBvi6n_zWGlcnBnWYDhMDJM7jrVmO-ownY4LQVzCFoiN4_iM-Kwr2CvymWojS8jrvAyXxJrgj8Vo8lC33j5XT4lZi8o315fUEhBMlNgBvM2EJF3b4ATCjG95GhRtoeEpM7U8sGJrZM7CGhfy2--HHA",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJbwd1Js1bFkcRhSJRnERwgOY",
+			"rating": 4.5,
+			"reference": "CmRbAAAAu4xLjsc5IDc4-9Z0-6u8zayf0c3szw5605otUnMZtDOPhV6jRFURI9SyZkJoVJrf3rzmIg7HcLpFZX8HEnZQ_06IBfxeqLmxX7CdKH7-r4VkLXoT_MItihdTVo-tp3lNEhC0LFGFBewqh3hBHrSOKRzPGhSWv8gguKf3wikCY6WD6j8bbFsBYg",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Walerego Eljasza Radzikowskiego 77, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 49.846289,
+					"lng": 19.715985
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.84763882989272,
+						"lng": 19.71733482989272
+					},
+					"southwest": {
+						"lat": 49.84493917010727,
+						"lng": 19.71463517010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "61df750fac7e0da3c4a21cc394505b877b4578f6",
+			"name": "Arka Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/117262134188466122252/photos\"\u003eJarosław Maślanka\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAqVajZSFsMjjxURGe3xzuG-y2wbvABC6YASWUCD9KSZu31I1viFIx72fwkOqYAVqRTxk111YRD5ibNKIRtu_X8aC1jiwlrh_XQgnzC33Pbj-4oxnEGT-O1JzBr5bJ6IMXEhAOJlOhIQvwh4cbYxY_PLwSGhS3x__7oGsLlsUD0A88XXF0bH94lA",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJ9yO0dZpkFkcR1-LE5N1HoI4",
+			"rating": 4.8,
+			"reference": "CmRbAAAABvaX1AXMidv5u5dqG0rElPV3uV4YKW63HiHWMdq1as6tziJ6J0zE-U_DnMCDjWgJTUKHWpWVBOFIxYVLN8srCVz-EEIfwlm-KAmzKWLbBDLsgFbJdE67FbVUKN2QM56lEhAqMO7jOlBjkR7lgsg9upFGGhRfp4kmoAZpvNzIaZ7Ur7nBaZ7uqw",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Lanckorona 101"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.05302810000001,
+					"lng": 19.9454132
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05434242989273,
+						"lng": 19.94678322989272
+					},
+					"southwest": {
+						"lat": 50.05164277010728,
+						"lng": 19.94408357010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "cb93406d5e299ca22b158ec434986b9cd1a4eb56",
+			"name": "Absynt Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2240,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/103674589019367464867/photos\"\u003eMariusz Wiecha\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAaDarSBJKEOPr84kIFAVp_0iZ8Ft0GMfWfPejM0H3bLf3jFpZn9JX8QlzXiKHKxwawDC2z-ZNy1RJGzgPOEJ6E0CmqTScCVn7CNS-TTPLB8jwj2YpGZLM9D5ZEb3oLTi2EhAQBAEqJIqHrtQpLNVTR_TwGhQ3-KTFsLC1NIARAfSwLMihPitlYw",
+					"width": 3968
+				}
+			],
+			"place_id": "ChIJl1yI7mpbFkcRQN67IvZRx-U",
+			"rating": 4.4,
+			"reference": "CmRbAAAA33yGwiCBDKFvAkorBP0grgw2p5t_jWLKJAEMAovsF3Adj7ZZyoMNxWzRDGDLA0yHeJ2JNl8DVxcxZckScRAfL_pFe8g8Xx_DjeMGHLKktGBCa2sqbYQoRSWreSP63zZdEhBaByW2_W0y_FuycrgTjMN5GhRFUn0Eh-uPT4FgHjGAdACvws1jYQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Miodowa 26, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.063978,
+					"lng": 19.9321911
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06535857989272,
+						"lng": 19.93361697989272
+					},
+					"southwest": {
+						"lat": 50.06265892010728,
+						"lng": 19.93091732010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "a99ccd01ea0651697abfa9e765a1b31fc2d10fba",
+			"name": "Costa Coffee",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2976,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/114469097397182041823/photos\"\u003eKatarzyna Macias\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA_Glcmk_eTRlNMLKbErL4xu4qJWvztkMq-u5otfE3wUSUozl4LJb9KcmySob5yVaNVfv2pFmI2hU872wHvWqT4xpKei8h8a2d2AJwu3adPnjYzU9jz1TRCrVkmU7hthvsEhBJqlI98D-933Tod741reAaGhRF9wXyT4GdNnddwMES_xjXGg629w",
+					"width": 3968
+				}
+			],
+			"place_id": "ChIJZfwdyg5bFkcRnfnYW8ppa7E",
+			"rating": 4.3,
+			"reference": "CmRbAAAAMLv56GWLvFZi_LAjvyodACxJ7YkGb_cRVyUxXFJ7QN69js7LsWFSanS-7qYEPE33cSWNJ2chx9qrgp9TuHhQ5e3CCWQHdBP98nzz_85EAAIAX-ZxxPxn9p-awF-vO9Y7EhAGSoEB6utRsj9jEV0mzJoAGhQIGVBCbKFQWo11ae0iIC3tXllWhA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Karmelicka 8, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 49.8326731,
+					"lng": 19.9390328
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.83401327989272,
+						"lng": 19.94029412989272
+					},
+					"southwest": {
+						"lat": 49.83131362010727,
+						"lng": 19.93759447010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "04eddc7f668e803580a84d4c6d8ba52c89c0e90e",
+			"name": "7-ka Café s.c. Kawiarnia",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3456,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/109417643455535607322/photos\"\u003eA Google User\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA9q9mLMfRwCHpJ2-yA6K8UOAxciNXynoxY9wtttiSJFFTSsWNeHCqJxPjkOAiOwYxVLZQ4Vu45yfes-3GDjlF8-k82vhm7nVCMaHqvAOTb2fQkHLfJyIU4Lhvmn5eMWIbEhDDx_HPHYqGDXr9REvpC90nGhTSlUO0jJ9_6LnHYltmzzDe7AELkw",
+					"width": 4608
+				}
+			],
+			"place_id": "ChIJQ2SYpZxuFkcRQvvkxJiBDWw",
+			"rating": 4.5,
+			"reference": "CmRbAAAAq-lPfsj7CjMfPd8NCO4y_oSlS_MHd3o0gNBP27KSPdO6HOPn5QMouZ8yaCKVd1RNwYfxvr0NQGbbkT1xvCjRUbN9DiTusMfcuT88BoNxlgbjLXEtGZUO8a-7B73OjirsEhCX_jDIPS8bBUMX-JwOEnqUGhSWWe9_11dwVA2rq-KN9YwAUP9oWA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Niepodległości 7, Myślenice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0623016,
+					"lng": 19.9414498
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06365142989272,
+						"lng": 19.94279967989272
+					},
+					"southwest": {
+						"lat": 50.06095177010727,
+						"lng": 19.94010002010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "4e1cdc794b8f33d8ff2f4c001668dc3b689cf7e5",
+			"name": "Cafe Manekin",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 467,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/117449309923279372750/photos\"\u003eCafe Manekin\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA-P6azOqHuUiKGsudsvNgApcQnLR6ea1LK2BxdE9CtlVRiMDjKoujlXz3gMAOlqLhZdw3qlt25YbqP07h2jStvrL9XwBbbN7_t2cX-yxJ092L30ceHVEEWWVZbB-J_zH4EhDlNMThomW3jg-J0bl4jlp9GhT_l3mGXDQPKtv7hqiFoGhUtOBlqw",
+					"width": 700
+				}
+			],
+			"place_id": "ChIJzctxvRFbFkcRBcx7ZUYcfTw",
+			"rating": 4.4,
+			"reference": "CmRbAAAAnVVGbbTNWL99uh9-ugLbm0eC0AXNf1o8t2I6rKvhAUA__t708DexidWqhjNgJC7xriKB04NkUi5NkUBF_KvbELzvXyrxigfry7woLPbBqBD4qn5Neforz8nQ259ChSs7EhCuLI0D9_mLeFQKhS-1jplNGhRUfY-KnBnCBiuldI2NYC0ogbwSNg",
+			"scope": "GOOGLE",
+			"types": ["cafe", "bar", "food", "point_of_interest", "establishment"],
+			"vicinity": "Świętego Tomasza 25, Kraków"
+		}
+	],
+	"status": "OK"
+}

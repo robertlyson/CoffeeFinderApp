@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="locations\1.json" />
+    <None Remove="locations\2.json" />
+    <None Remove="locations\3.json" />
+    <None Remove="locations\4.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="locations\1.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="locations\2.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="locations\3.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="locations\4.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MoreLinq.Source.MoreEnumerable.DistinctBy" Version="1.0.2" />
+    <PackageReference Include="NEST" Version="6.0.2" />
+    <PackageReference Include="NUnit" Version="3.9.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoffeeFinderApp\CoffeeFinderApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Nest">
+      <HintPath>..\..\..\..\..\..\Users\Rob\.nuget\packages\nest\6.0.2\lib\netstandard1.3\Nest.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

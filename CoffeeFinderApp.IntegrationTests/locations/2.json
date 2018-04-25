@@ -1,0 +1,828 @@
+{
+	"html_attributions": [],
+	"next_page_token": "CtQDyAEAALzJI6lg-0Mk9ZZC_RC1GVPyecc_y6otiO8IW8Sl6ThsPAJxbriWDM_xS0a7d270kcQneoYNLe46TA81X4lITlxjW7FmJcZ4efceR76-xJeoCnSTGx2l3cmyeKIaNCIVt5-HNdjgHWBrwpvDljQCxqzREXyqXDX7esMpwn2atbe_spXLqaEVmdNf-MsQD6bfKJFJeacXHgua3_Pb3fDUFekx0bpu_76pzuqNttPnN6g44fDSIJbUD_ashzJOIs7jJbpehMBz4XpKxhugDLbJrTdwJ9OdXW5dREiRLXiagerqEnuSFe2Euj8cboKAXPKU_Ypt5pEboEpE5KZyWCkja3_rPiYEGq8uhLhnOvRWI6a4Bud_wmLWtt9BigELr2V3bGiVuugHCPkeXUwVsEbIVm9IBCpKKluEsk_DHX2H53vjm8-MFuoMoAgNj4AQzPnJ4OgUfcH5GgeuFFPWF3uig3OZAzx1VAiKnHtywVplT6Evs4X5Op9OsWRW_K3wBfVb1C-dEdo2M-Qchg8PcT3QVD-ckmX1A_Ugy8PuyTw9hthwgpluBdl8IQ7mGk2nOjh3ODBhMKUcHXVEHjLm_vGX8Y0I_YyILmzLNMzJl-LNcggPEhCrpDt-Ve3xONCVzkXtBOXFGhRv3gHtCGxvKnfilhIpjEFeEOTuuw",
+	"results": [{
+			"geometry": {
+				"location": {
+					"lat": 50.0603722,
+					"lng": 19.9393613
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06172782989272,
+						"lng": 19.94068917989272
+					},
+					"southwest": {
+						"lat": 50.05902817010728,
+						"lng": 19.93798952010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "20fd04c2f382a86834662427d4f42a1363f4337a",
+			"name": "Siesta Café",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1280,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/109903255442725114794/photos\"\u003eDaniel Myhal\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAei7QFkvJfC1ujnF9vbOgO7VBsWANseVG76Y7XSqijjfu4TMhLnWZoTNSgOYHZ0X0Q00GD8kth6dDzFujMhlXJRBkgzUGAJbNdUflk88YFrBultUVFLOjdz5YOkMOwIqXEhBnIiJr8o5kPaxRv5H1SlkkGhQ5qRPl94epIM0Zrh7w3kQtamhsLQ",
+					"width": 1920
+				}
+			],
+			"place_id": "ChIJ75UuPRJbFkcRL5CIOXuFSBE",
+			"rating": 4.6,
+			"reference": "CmRbAAAA_2plsoivT4i7IFweHK_wTxFWmYVQEaLQbdaUKumEWO-tDCLjXer_De1jz5XBP_VOQT188cTF4kvD4fpzqMGz4a2T1B3m-lMP8xJxr8jZykJOCyVmIFM05KQMYIvQxvOYEhDUMN1c5t95pgSsBLfRGugyGhQJM-doqwITZMqjgfsOVpTdM6Ds8w",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Stolarska 6, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0663809,
+					"lng": 19.9460918
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06775557989273,
+						"lng": 19.94695492989272
+					},
+					"southwest": {
+						"lat": 50.06505592010728,
+						"lng": 19.94425527010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "7563a5faf31ea2e954622c116b346b58d69ba91e",
+			"name": "COSTA COFFEE",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2322,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/101623713373262979973/photos\"\u003eAnna Zajac\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAlAIcOU6N2owTWUTZ4p9nAhvY7E3vxQM3RhFZGTcd8u3Pie_Dye2JZOJTsRYvhPMh2ukrNJwYuevFeqkmQaBpCUTenGZr5fxz8l1Emi7nNLBIYpHG2_KjFwVF4xKfFHjZEhA-h3kU4LbapUyRAGdci3tMGhSDd4aD4M1-UgB1IPOe3aHZM4B7Pg",
+					"width": 4128
+				}
+			],
+			"place_id": "ChIJT3-g7hpbFkcRVQE9kmUa93k",
+			"rating": 3.5,
+			"reference": "CmRbAAAAVL9jNIkoMQ8VnZH7qpUbrACz36G0tip9CGP4C5HOBBHufmDdqXBksJycqaqovE2WKCBnQ1iy5_8r-K4dM9iupI1TD8Va72J11bAcAdp2sEz-5pGoY-lvZXLRKy8kEIhHEhDK_Dtv3DjFfNxt-adCEIDxGhTiBUfkV6mb4EkMgNSPMWZ1sC7q3Q",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "CH Galeria Krakowska, Pawia 5, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.064391,
+					"lng": 19.945273
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06584772989272,
+						"lng": 19.94662402989272
+					},
+					"southwest": {
+						"lat": 50.06314807010727,
+						"lng": 19.94392437010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "3b84f5a6e8edf33087743b997b252909e7375e2b",
+			"name": "Kocia Kawiarnia Kociarnia",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 675,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/106324431294864225209/photos\"\u003eBody Fashion s.c. - Sklep Z bielizną Damską i Męską - Bielizna\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAjChV7C2BklSlTnuSJgbpA09MjLo6OpwgJludFpDcqpmCJPEcbJukb_bZcRH7O7c1iJ8-QkH3psS7qA7VLki5dAM0fiMk16wk4yumOVn-IVbPctQSrhivUZYe2eWIeAESEhD_6yQp9PnVCa-GlP-f8cmIGhS_TxBE8g_c63vyUdV8pXwVTpWUng",
+					"width": 1200
+				}
+			],
+			"place_id": "ChIJV_YYgyxbFkcR0oqVxM3WABg",
+			"rating": 4.2,
+			"reference": "CmRbAAAAF1QqON7-TBblDeWv_kr3MCNa4Vm75A4qid25ob7motc1pZP2S5LHkz05XiEyNyhviWPJATtKy9ybUYkw-qaU_0s1-i-8IdJoJGp1GajCRtkEfzUW7djdbvr07gyRth8jEhCjYknrPKPwNjqtKCMhDOHmGhRafySrb647llUgurIwCL-N-lJsGA",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"bakery",
+				"store",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Lubicz 1, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0575489,
+					"lng": 19.9375999
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05894262989272,
+						"lng": 19.93894162989272
+					},
+					"southwest": {
+						"lat": 50.05624297010728,
+						"lng": 19.93624197010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "a8da7a9d346b333456967fde07a773e6193ef0ce",
+			"name": "Pianola",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1367,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/104091317410329800352/photos\"\u003eCafe Pianola\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAATY-JKYofAo4Zfs74rlcz5PYMjhbl4kH90wGL-2YLB8t6U_sRTyx6eG6Keza1kCaX5oiwn2Hd_EHJelUq6ME3rZre7Z2tc7eVirzZMhRU6fCN54J3D0FYzpKRmCSUg2VkEhDqTzczNNIcWLFIhCyATo1oGhSTrluumoP2liu0A-pzdm9hRYgoSA",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJDVABwhJbFkcROvd4PipiI2c",
+			"rating": 4.1,
+			"reference": "CmRbAAAAKLUKN2NfVJfmZ3t5zim4-_TS9Ab6iGWL3GElS3nfA3QxGhuOw2LGgjaCbhuV6dHncMqmqwez_HQgHUdex2G5DKPbbAZNsV56IEIlkdvC8YkbhixUFX7GSTHfp4HIOUtdEhCs-PpEt9wDOIEQ6zLl52TeGhRqsm5XJW6ON8c-THkqgBg_4h4erg",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"store",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Senacka 7, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0591905,
+					"lng": 19.9377776
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06050292989273,
+						"lng": 19.93912532989272
+					},
+					"southwest": {
+						"lat": 50.05780327010729,
+						"lng": 19.93642567010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "ebc6c65234da8b24b22b7e29bee1082331872301",
+			"name": "Karmello",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2160,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/103060357134816468586/photos\"\u003eKasia Płaszewska\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAJ1n17NYph_nWqbwZX0SAV4rmijlV2keYRyezu1qJ3fAZ2IqZZauTar9Hqzis6uL7N6wuaKeVtzZ3FIL7LZr9tNBM2rhuc9JImmjlfrjGg6YB_wqydXlO7r4-peE3LFB5EhBCH9xWU2mJwQgFBzRj2JgkGhTf9gCJLumFFPvP6P-jAmeX30lz-g",
+					"width": 3840
+				}
+			],
+			"place_id": "ChIJg7yBYxJbFkcR0c1Pc2I9sr0",
+			"rating": 4.5,
+			"reference": "CmRbAAAArHdC59g09ZPHmcPXofs7Ey2jokH_c0_9umvw0z42XmE7To6ZuWlXhT92VAJ6ETwz7jHg_Bj7ErvTwRRtDqUrL4XRsVEeHPUJ6AjphT5hjuNjln-bMZO04C_xBzZfr3kqEhCzxItnIeIJExRkSs5H_-C9GhTjAO2C87tjdfXbgNW2hjyO_wxAHQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "plac Wszystkich Świętych 11, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.012113,
+					"lng": 19.9777284
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.01346977989272,
+						"lng": 19.97909047989272
+					},
+					"southwest": {
+						"lat": 50.01077012010727,
+						"lng": 19.97639082010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "d14ca803fe01f45f108c36557857be8ee49b6af5",
+			"name": "Cafe Kontynenty",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1362,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/108601000769620612745/photos\"\u003eCafe Kontynenty\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAjF9bf4Jj1ch-uChlXi465dWYa6MESgQ5vHqTu-igOxXcoo6YRY2OFEWiwQKdkvuz7NXgsQ9iwxi-Smt3l1zx4ppc9byLAghebHMWN8VvAEKMNtragP7fjL8hnq_YvAcKEhDCfIurVwzl82hSieZvSrf2GhQLn_U3pWaQTvrGkDkaL6J6tkPj0Q",
+					"width": 1363
+				}
+			],
+			"place_id": "ChIJr_5m0UNDFkcRLX3pkD0IhCM",
+			"rating": 4.2,
+			"reference": "CmRbAAAAYN60W4JqYIuICcezq9PMKS4LwTLUXPryUf1tOwJUOGAU3kRSVJL_m_jBa4rysTP4aCiOUXNxyOB5nqRH2JvwY6rvVQatFh9hy6dlT88Tqk3PT9kQ05_UM4vRSm_ZL8uREhDWOzsJQvXYrObLV0bC1XZUGhTSPvd6GqRjJW9aUXauei7MktYPQg",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Adama Bochenka 16a, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 49.984649,
+					"lng": 20.061348
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.98600742989272,
+						"lng": 20.06264522989272
+					},
+					"southwest": {
+						"lat": 49.98330777010727,
+						"lng": 20.05994557010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "3b3f0e62ac1e8dfcaf9db34c739de495da785fb2",
+			"name": "Cafe Pistacja",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3556,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/118215008201541601003/photos\"\u003eCafe Pistacja\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAfSmpYeSAW9gsncT2ytfzrBEybTdQIlODn4sOFENusb2noP9N8gF1sWsD_oeWW4gaZKDopS7Q1r8A1P0SyCLPq0N6utdlvFrLvFhOb3TCtoQdf37B41SxSjZx9iUT1sLrEhDXRVdB3Bcz-IHucqAGsopEGhQay4HLOOFIgh8fHfUHToyjNDjMtA",
+					"width": 5580
+				}
+			],
+			"place_id": "ChIJ29FUR2JBFkcRTSR2N-VQGwY",
+			"rating": 4.3,
+			"reference": "CmRbAAAAsTlZG5qOfr5IHW0Em6PrhNcIL9_suHzizym6T3YLY6XfIfpBGSGfs9pjtCNCchxw6Q5YAAmoTFv0jn0fP4idga7ipJkCHoxIT7ZZGdHrfY0Evfyq5GqlaCrBguH75W5KEhB8Ye_WpySO7OWnwpHt1JfpGhRkAZkOranUeTK0AVFQ0O4XOQOuxg",
+			"scope": "GOOGLE",
+			"types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+			"vicinity": "Księdza Zygmunta Goliana 1, Wieliczka"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.06097800000001,
+					"lng": 19.9348291
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06228502989272,
+						"lng": 19.93629647989272
+					},
+					"southwest": {
+						"lat": 50.05958537010728,
+						"lng": 19.93359682010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "52ae7dcb1f52a4d4d77a8465290db07a595a2926",
+			"name": "Camera Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1836,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/102970365036878940174/photos\"\u003eJosef Cardona\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA54t6lYp4KQc_Yd65DuReFE4Z5mqgUSy6ieYx6Nzr5rEAZWD_wvv8FmkEQCeQUkTrlI9LdDsQHmIqhMeerCB0M_d79AN0HTHZO5uf8MglZQXS1FxX3ZjXlcnxAee_j208EhCzaXSRfHw64EYTa0HO0zrPGhSToBZiHkI3FvdPY1HP4Zq0C8IApA",
+					"width": 3264
+				}
+			],
+			"place_id": "ChIJ48izxg1bFkcR1RmNw-NYvjg",
+			"rating": 4.3,
+			"reference": "CmRbAAAAZYSWnTnILC6f8MnM2hkWJaXCp_CPSo0WpgZz99L64lhpqs2eNVkiNvzamyXYSZKSFdw2F2zD__YsEpt5v5QpgnjWI_qKLJGtxqwv8wKzGelAtLnWceSPW7JelC-A2rgkEhCM5Az31DM-MFKrXGakplquGhRiUzb5rRBZZfOCkFwbbFCJtAauHw",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Wiślna 5, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0582849,
+					"lng": 19.9251795
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05967822989273,
+						"lng": 19.92668357989272
+					},
+					"southwest": {
+						"lat": 50.05697857010728,
+						"lng": 19.92398392010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "6db5a675e41bef60e04f89e4a4454ba8d9094418",
+			"name": "Filmowa Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1365,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/112276928971678054611/photos\"\u003eFilmowa Cafe\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAPpkOEv2nzQFiMJwRYMKhRdMrmnWjwQOZsD02MtZvygd334yWaTjwettb8zt8iqwILAYQ7eessEkVB_DRU4FRDSlFpVK6HM2LPoPhKBkBS6PEN-z94Q8IFNJcFnfKrk1eEhDvGCGx6adPH-v4ktqfSlJnGhRceH9f-RaOFr26ceezB3VWg4uusg",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJbVilzHRbFkcREIkf-tV4tDU",
+			"rating": 4.1,
+			"reference": "CmRbAAAA0jtI3H8inkn-JXMlny5u9lTIMqeGL4uvy698XJl3R0tleLYK8RlMF9vbKaYlB5frRYg5zUq8io3aHHjhH2rxYzIxz2y--i-BzsCrFuwQbOglFirAubxHKZV9f4LzIjK2EhDlQZRdjz_eZFfRIsVfHE98GhQEjSZ25YJnuQFqzraRD6dnGGcf8Q",
+			"scope": "GOOGLE",
+			"types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+			"vicinity": "aleja Zygmunta Krasińskiego 34, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0460456,
+					"lng": 19.9492021
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.04747832989272,
+						"lng": 19.95047882989272
+					},
+					"southwest": {
+						"lat": 50.04477867010728,
+						"lng": 19.94777917010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "c25be6358631abb2ce1f0ffabbcbb74dc97775fc",
+			"name": "Cawa",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2322,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/111943887627073102378/photos\"\u003eAnia Wdówka\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA9bDGmM50wnNyUXAobabQXC0qzjQAFK1B8pKEfjT50JcOk7IljMr8HSS9iIzTEKJPFLNS67pt5-h87FKwuQSiha8iKpC-Dk3u321vF5smNMIV8U6lXj-srCiqZw3pu_gvEhBQ4W25Jun2FeteF79BldCdGhT5FV5VLT5Yet3zpXtjy3tDlrZY3Q",
+					"width": 4128
+				}
+			],
+			"place_id": "ChIJhfzpdUNbFkcR0kAiEII5M-g",
+			"rating": 4.6,
+			"reference": "CmRbAAAAKqs6gbf-yWtEu61PownlyFgopQjH-4d5-CUt_c-C-CFYi1K70dmpvaZYUlaSMRPRU68LdA8h2g_V7xcEhq_fZ_PIqE3_3zKfm1KuhCdUx0PpwSOu0biebp7tzUv5NSB4EhCu3geVt6nvjTXO2TGYn0_OGhS_gSxZVxCwW9WxOX8yf2f-cputRw",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Nadwiślańska 1, Krakowskie Podgórze"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0628912,
+					"lng": 19.9382657
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06422472989272,
+						"lng": 19.93966947989272
+					},
+					"southwest": {
+						"lat": 50.06152507010728,
+						"lng": 19.93696982010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "ff30d20f7478b5eedb6113e07a1ea8e69cf9d554",
+			"name": "Rio. Bar kawowy",
+			"photos": [{
+					"height": 4128,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/105928216920048967823/photos\"\u003eD\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAdJf1Qz_xvOV5TjgPC6aqXIyVpvDYq9IJoqZr3yxMjjjhdno2G9wMzYV2S2fD3GivpdcgpDYW_IkmIp9PysyfnkGuNrlcSlP5TLXI2iY5ivxbAAhC6uWNhsnei5fKQ7H9EhAKGKwM8-ECEsDH0nmoUNgrGhSkn4src2v6KNB8xMasWo73z5bTZA",
+					"width": 3096
+				}
+			],
+			"place_id": "ChIJGyyzGQ5bFkcRwoRCIEpRtdI",
+			"rating": 4.7,
+			"reference": "CmRbAAAA0sxfyWTTdOSkQOB-8Njp9Yns_TmG58DreUbwf8mIxzgTp3CoCrqi7Mnb3wALe66tUrtCIg_O7RKauThe2VKokosboPqLUwFQTV91tQpbQcG7fGtInt2Illvt9wT09syIEhBLmr-0me72957CJbxuRQQhGhSPcYVIjxeFrYJNDVNkio8LlVxvQA",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Świętego Jana 2, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 49.87962,
+					"lng": 20.100778
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 49.88206065,
+						"lng": 20.10198792989272
+					},
+					"southwest": {
+						"lat": 49.87880644999998,
+						"lng": 20.09928827010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "a2b893a68fb8ca12fbada9b01a6b9347d6bd4492",
+			"name": "Rucola Caffe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 850,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/108746831120921404235/photos\"\u003eRucola Caffe\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA-FRtXDeimnOe-0ck0Yh1irwid38mNgMBU0vAvbx_NBe1DI1KQp-_GElPaLr7PAAc3ddlwIln_1tZnZg3lLoW0ErEI5jwV8qDaN9qrTyXLEB8U1hwYKhesCnAhyx5XcYLEhAPDsr2F_Tga7CMMIQrQow5GhTtLADG2BSNGp3hNFvaYShvahP8Ig",
+					"width": 1280
+				}
+			],
+			"place_id": "ChIJpW-7ZNZqFkcRXGAmrNPcmGg",
+			"rating": 4.5,
+			"reference": "CmRbAAAA-QJ9d028EsTxu8o6gIO7RTmbLAyZpbc3RVd9mGb61ZOej9tz0v2akt9Jb6M6Ee2PmckHG9C-tf7kr8b7lMNID7Pr35HagjzZvjtjuu-JJzM4jSZctlQ_MVnkZD_VziVpEhAVIahCOwNtNyKjbH9w2FPHGhR4SHj-IMO2qYryzBTDI41i1REXfQ",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"meal_takeaway",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Szkolna 43, Dobczyce"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0626337,
+					"lng": 19.9366138
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06395097989272,
+						"lng": 19.93805577989272
+					},
+					"southwest": {
+						"lat": 50.06125132010728,
+						"lng": 19.93535612010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "0f692510404309d472a86ed6f8840aba7cabcf24",
+			"name": "Europejska",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2976,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/109541007287186396697/photos\"\u003eAndrzej Koliba\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAYnBseuH2QVHNrkxH2bRWL2fCcPOEBv-VBLgw2apVT4glFloi8uOtonDKUe-S1tyIlq8KIZLqOaS1OkwtCmHnkawa0GR-taVWk8JYQ267AtY7_vIsJYtjyndBbIxUJ0z-EhBinAZ5_Xp2AqTKZXDAbai1GhQksFgVvm85RF1O3tJMZ21KqHFCpQ",
+					"width": 3968
+				}
+			],
+			"place_id": "ChIJwaiFbA5bFkcRk-84PXW5V34",
+			"rating": 3.7,
+			"reference": "CmRbAAAAKZazq0EP3-epu54bCg3wEqqnaVhPXFqL-lwGjPDr_ecGYQ7lfCWMfmPHQT0m8kWKUTyuVRqnvvy097UQIL9HTqHVsoMUXqfcmpCqjPH2za1op2x-VueZC-Oz1QopyW7lEhAL0KMGfCbzzuJzXPA0Nru7GhRUiiZf-ikV6OxjqYFYGXXLEfbmZw",
+			"scope": "GOOGLE",
+			"types": ["cafe", "restaurant", "food", "point_of_interest", "establishment"],
+			"vicinity": "Rynek Główny 35, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.062988,
+					"lng": 19.936506
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06432122989272,
+						"lng": 19.93784032989272
+					},
+					"southwest": {
+						"lat": 50.06162157010728,
+						"lng": 19.93514067010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "9730aa2ceb9fdb1f4de95fa42f76f2f4af7d9345",
+			"name": "Caffe Zaćmienie",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2642,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/112784133953424998863/photos\"\u003eCaffe Zaćmienie\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAKHL91A5mlo-kvg5e4Nr099raeDR0R45qnVAYwJPiJXpUFYPOz7IibRM4z3PotK8N7hBZVZ_teBCCdfs7azuq20iX6x6jYkuxY_yRwkq4_mLPTS1sb9zNX_EjKqz4whzwEhCeCaRg5eVPmDznUiONiyv3GhQDpll9cm46k6V6C5glgNWhTyLJqw",
+					"width": 4758
+				}
+			],
+			"place_id": "ChIJ75qXaQ5bFkcRYPHeN6P_RAM",
+			"rating": 4.5,
+			"reference": "CmRbAAAA_ZFQj8BKO8S6JQjLlZ7W8rvczcM2x-oMvA6kXqYTW2B6Vu7VY65GjsPoC7NZ3mYyZGIpriSZYXXF2ppOrWz6ytESt0r7qonVl7LQojj7vSR0xJ539Xv3qTpDS0xiC7_zEhDSKZpt-oJ7IRl6XStGm-u2GhQ5J6ha0fxdcF2Q6uWmr8nrkUaskw",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Szczepańska 3, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0662482,
+					"lng": 19.9402472
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06759002989272,
+						"lng": 19.94159207989272
+					},
+					"southwest": {
+						"lat": 50.06489037010728,
+						"lng": 19.93889242010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "c8472da9a156cad1ec66b844f6d6b6b6b53a6f60",
+			"name": "Lajkonik-Piekarnia i Kawiarnia",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 1363,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/113683253928228870732/photos\"\u003eLajkonik-Piekarnia i Kawiarnia\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAW9fH7tkyIeQ9FEc0BgfXW6q3SAUQq9nzQhLMOY3ndAKBAZ_1C-jV84_AI6Gt0e6dRqoqCLDJJZFyPziI_eU3DpIxwM2Cuzuqkedq9d63npm--_FZGPH_chbmTyq_-i5PEhBnrC9vMSA_fkkxLrBTZYNZGhQp5yb9sYrLrEezUSCVj509btyZkQ",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJObfS9Q9bFkcRDi65Y0esInQ",
+			"rating": 4.6,
+			"reference": "CmRbAAAAxR_RPWwvoK-puA7oEwgIHF7_k8QPj3LvU8jmxBEDldIGa9MijroiGABNaBkgnf063Oyrrop2o0Ud3atjdoTIwrGtn2qDkATIAHOXV7KYhHCZqKunbsDMuCQaf9lJE9JNEhAF9sfnpFgEg-sVp0DxVYaaGhRDa7UxQTGPvHwAUL-vAR3H2LUvPg",
+			"scope": "GOOGLE",
+			"types": [
+				"bakery",
+				"cafe",
+				"meal_takeaway",
+				"store",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Basztowa 15, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0630624,
+					"lng": 19.9413741
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06440642989272,
+						"lng": 19.94274362989272
+					},
+					"southwest": {
+						"lat": 50.06170677010728,
+						"lng": 19.94004397010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "727294b463cc64013470b053457baf180127eeb4",
+			"name": "Consonni",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2160,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/114598643828993204900/photos\"\u003eThomas Bayer\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAiIqqTtCH3L63nVsYuVykFhzIc0Dr4t0m5_44W_FOOXaH3ZuqBgUVGmaMvSl-CRg1MMV9gITPPYB_9FDp5SNU1jJri0mwSvHdyyYQLBh2V7X6_lNN2BOE-yeGtVI3DOU-EhA27wrsDVvw2-e3hanfZ-gMGhR9IikfgdGa1wfpRWvRf5JiBGTOvw",
+					"width": 3840
+				}
+			],
+			"place_id": "ChIJ20BPthFbFkcRTXjRcaFeK9c",
+			"rating": 4.5,
+			"reference": "CmRbAAAA6d_HQrvL_2v5HP6UUIpvQCzFcVIizNG-Tye8d1E9K9YQ-gCxPOjINlnl_MSHWZUY8smQv1QXyMdhfRWKUVZeBfGNEo3-2LgwpP9enV2JritauPi-myl993-ttifyIuDEEhAuwRFktahKFGzdAktd2v6LGhRspc7Y0dPrbOUltCzNch3rFPwWQQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "bar", "store", "food", "point_of_interest", "establishment"],
+			"vicinity": "Szpitalna 26, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.062668,
+					"lng": 19.940294
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06401367989272,
+						"lng": 19.94164082989272
+					},
+					"southwest": {
+						"lat": 50.06131402010728,
+						"lng": 19.93894117010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+			"id": "dd7ccdccc919fb367c4ed0174ed80148c593c3df",
+			"name": "Pożegnanie z Afryką",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/114195018178295711747/photos\"\u003eLuis Casero\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAA67HvS2XAgn7D2_yjoYIPUeM5ZUpnO3B77xx1LDe0dF7Yl1bWgLvke4UCr67PWYxSRPQ67dAqK_Fohlz3ut5s9Y5YA_Idxd2n09-z1FF90oXuaJoKtQwdcz32LKJ58myAEhD8UryzRUq3I1T6GPyLjMzbGhSjU78aN5tj-Wc_MElfFT97ZCB93g",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJSdXJwxFbFkcRGNthafR9lTU",
+			"rating": 4.6,
+			"reference": "CmRbAAAA3DOiFVtxQg8esUHMEw76adxToz8lFoEWg9cElYS889W548i_x5HDxPvnRrNjpyR1TvE8dmo0iBjkGpEZ5OGjHODcsfkIfag-ay9NgNPHDtGs_ysZucZ6CBcIxvWcHN0VEhCXKNBpZwW4-6sfv30OYv6VGhTZy_4Tpjm52rX_VJYfRPTbPlWWrA",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"liquor_store",
+				"store",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Świętego Tomasza 21, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.0956073,
+					"lng": 19.9625418
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.09701252989272,
+						"lng": 19.96341022989272
+					},
+					"southwest": {
+						"lat": 50.09431287010728,
+						"lng": 19.96071057010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+			"id": "5f03200a02ddb0e057664924542ae6a75dec107a",
+			"name": "Coffee Proficiency",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2477,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/113223985515731364810/photos\"\u003eCoffee Proficiency - Coffee Cargo\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAaCickDBNK9P4-DrjHkvtfwJmElZ2rHIzFqY3W2n1_gGWzYjdFHGuT5A0HpSupAvUOWHl4gjznZMosFXOYo2zPrDZwqhrvFBTYdckCTjanp32BRZmmLkzzN-DlnDm2xwAEhAhOG6JNO_a6HJuh94xiBcyGhRQOznPf38p8Jo0iu75O2v6FrykxA",
+					"width": 3724
+				}
+			],
+			"place_id": "ChIJz7DANUZbFkcRVzHhIWQBFzI",
+			"rating": 4.7,
+			"reference": "CmRbAAAAocAumltOYGhojGH2m0kUmeqA4-YEn4AIXdjjRIXmA04_OMbmAQ6nhZIWhquLVsJdjr5mB6u2ILYp1RLEP7_JDCHW9H9W1gFv8Cb56rj4XRvgDNy_yyeEWDgUROa950MpEhDMF3ch_nphAyWJqepFOLmgGhTawc1mJg70Fl3-BGh8JSrbeA6b9w",
+			"scope": "GOOGLE",
+			"types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+			"vicinity": "30-701 155c, aleja 29 Listopada, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.047601,
+					"lng": 19.9465213
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.04893452989272,
+						"lng": 19.94783372989272
+					},
+					"southwest": {
+						"lat": 50.04623487010728,
+						"lng": 19.94513407010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "9b407a94a9407c1deb7ad1593ca595f7af574048",
+			"name": "Cafe Kładka",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 3120,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/112861725402784879449/photos\"\u003eAndy Ferguson\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAU0tS6yX4XrZNz0JUovMQn7Nu9Fwyereb52TUNDZcPpgtROYLkwIdoNhQ702hpU-760pKjU8cwc5R4_dvYUZGQZAi7fpbuOzv-7RrDbNKLzorLtq5Xt4avY8dlajhDKC0EhAu9X8S5VnxrZ-t5N3dNkU4GhR7o9atLqIcG0-sHYFeMM6As6DCrw",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJzw3C1gmh_UYRwIsjxkjt0cI",
+			"rating": 4.4,
+			"reference": "CmRbAAAAnhNOx-pnd0JuDRQmqA5ZXAti3vqnsMjCXlZGXfTGd6NBfOc_412E-ZIdX_2VbREDXZwF_Fb_DgTGvaRGjPGaYvbYESVJzyrjQzpvz-nh_PwUcpnOcABjdvyEDT4aT0ntEhB37tMiPYwPUZWXNrnkkF6zGhTI_nlF7B_pSMCSmqliVgY3HLd-TQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "food", "point_of_interest", "establishment"],
+			"vicinity": "Mostowa 12, Kraków"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.06337990000001,
+					"lng": 19.9305965
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06477807989272,
+						"lng": 19.93194357989272
+					},
+					"southwest": {
+						"lat": 50.06207842010728,
+						"lng": 19.92924392010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "ec14224ed8fd73746a9a3c9dfe98c5437f1a569f",
+			"name": "Karma",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [{
+					"height": 2697,
+					"html_attributions": [
+						"\u003ca href=\"https://maps.google.com/maps/contrib/105215100182724126105/photos\"\u003eSzymon Su\u003c/a\u003e"
+					],
+					"photo_reference": "CmRaAAAAVx5nt_4ck6qBm2fM-dTzU1MHA74kKpYTYTsu7-T9LTePs9U1xEF7eSADpBzo9q_oT7QWmCy1dLKMv3cTqu4qim6i9Pf3ltoEBTnY1gHnTrDFaEKmfkwXWVITYIHYm26QEhBeAGn6jPBWZOi13oauQHJDGhSFvGwif95zSmtRLPLyJ1FN3uN2YA",
+					"width": 4046
+				}
+			],
+			"place_id": "ChIJZS_KUQlbFkcR0L6vhKe5k5Y",
+			"rating": 4.5,
+			"reference": "CmRbAAAAVi_Y9LovGOMLynwm3LewRy5PFqp5nmtN_krWBN0-2_VzUS2OrrzT7ne-GKYjOQP8NpR8GvNcjL9FtYHidYONYdeSHzwLqZo9azomL26IjhJXmA3KN3ob0l4KKkTfa1EgEhDDXf2HxuDcGUKxynxFxhHeGhStiEyzV-JPCe_OkSIVfv3HFNXJaQ",
+			"scope": "GOOGLE",
+			"types": ["cafe", "store", "food", "point_of_interest", "establishment"],
+			"vicinity": "Krupnicza 12, Kraków"
+		}
+	],
+	"status": "OK"
+}

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NEST" Version="6.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Nest">
+      <HintPath>..\..\..\..\..\..\Users\Rob\.nuget\packages\nest\6.0.2\lib\netstandard1.3\Nest.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
