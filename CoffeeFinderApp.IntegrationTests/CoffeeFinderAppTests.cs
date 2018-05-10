@@ -50,6 +50,7 @@ namespace CoffeeFinderApp.IntegrationTests
                 .Index(LoadLocations());
 
             //TODO exercise1, make the data available for search(count in this case)
+            await ElasticClient().RefreshAsync(Indices(IndexName));
 
             var response = await ElasticClient().CountAsync<CoffeeLocation>();
 

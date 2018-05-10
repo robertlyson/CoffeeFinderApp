@@ -18,6 +18,16 @@ namespace CoffeeFinderApp
 
             //TODO: exercise1, indexing
             //TODO: exercise1, can we speed up this process?
+            for (var i = 0; i < locations.Count; i++)
+            {
+                var item = locations[i];
+                _elasticClient.IndexDocument(new CoffeeLocation
+                {
+                    Id = i,
+                    Name = item.Name,
+                    Location = GeoLocation.TryCreate(item.Lat, item.Lng)
+                });
+            }
         }
     }
 }
