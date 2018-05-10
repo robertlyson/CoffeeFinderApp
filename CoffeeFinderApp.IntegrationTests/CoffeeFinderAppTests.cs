@@ -49,13 +49,14 @@ namespace CoffeeFinderApp.IntegrationTests
             new IndexDataIntoElasticsearch(ElasticClient())
                 .Index(LoadLocations());
 
+            //TODO exercise1, make the data available for search(count in this case)
             await ElasticClient().RefreshAsync(Indices(IndexName));
 
             var response = await ElasticClient().CountAsync<CoffeeLocation>();
 
             var actual = response.Count;
 
-            Assert.IsTrue(actual > 0, "Looks like documents are not indexed in elasticsearch");
+            Assert.AreEqual(78, actual, $"Not all of documents have been indexed. Actual count: {actual}, should be 78");
         }
         
         [Test]

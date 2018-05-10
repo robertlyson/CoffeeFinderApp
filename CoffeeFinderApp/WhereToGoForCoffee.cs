@@ -15,9 +15,9 @@ namespace CoffeeFinderApp
 
         public async Task<CoffeeLocation> NearMe(double lat, double lng)
         {
-            //TODO: write query to find nearest coffe
-            //TODO: bool query with filter(goe distance)
-            //TODO: add sort
+            //TODO: exercise3, write query to find nearest coffe
+            //TODO:            bool query with filter(goe distance)
+            //TODO: exercise3, add sort
             var searchResponse = await _elasticClient.SearchAsync<CoffeeLocation>(s => s
                 .Query(q => q.Bool(b => b
                     .Must(m => m.MatchAll())
@@ -32,12 +32,11 @@ namespace CoffeeFinderApp
             );
 
             return searchResponse.Documents.FirstOrDefault();
-            //order by distnace?
         }
 
         public async Task<CoffeeLocation> NearMe(string brand, double lat, double lng)
         {
-            //TODO: search nearest by name
+            //TODO: exercise4, search nearest by name
             var searchResponse = await _elasticClient.SearchAsync<CoffeeLocation>(s => s
                 .Query(q => q.Bool(b => b
                     .Must(m => m.Match(match => match.Field(f => f.Name).Query(brand)))
