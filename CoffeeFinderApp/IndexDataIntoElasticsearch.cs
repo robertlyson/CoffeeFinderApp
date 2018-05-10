@@ -15,6 +15,10 @@ namespace CoffeeFinderApp
         public void Index(List<GoogleLocationDetails> locations)
         {
             //TODO: exercise2, make sure Location is of type geo_point
+            var createIndexResponse = _elasticClient.CreateIndex(_elasticClient.ConnectionSettings.DefaultIndex,
+                i => i.Mappings(m => m.Map<CoffeeLocation>(mm => mm
+                    .AutoMap()
+                    .Properties(p => p.GeoPoint(gp => gp.Name(n => n.Location))))));
 
             //TODO: exercise1, indexing
             //TODO: exercise1, can we speed up this process?
