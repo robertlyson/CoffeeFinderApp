@@ -38,8 +38,19 @@ namespace CoffeeFinderApp
         public async Task<CoffeeLocation> NearMe(string brand, double lat, double lng)
         {
             //TODO: exercise4, search nearest by name
+            var searchResponse = await _elasticClient.SearchAsync<CoffeeLocation>(s => s
+                .Query(q => q.Bool(b => b
+                    .Must(m => m.Match(match => match.Field(f => f.Name).Query(brand)))
+                    .Filter(f => f.GeoDistance(gd => gd
+                        .Location(lat, lng)
+                        .Field(field => field.Location)))))
+                .Sort(sort => sort
+                    .GeoDistance(gd => gd
+                        .Field(f => f.Location)
+                        .Points(GeoLocation.TryCreate(lat, lng))
+                        .Ascending())));
 
-            throw new NotImplementedException("exercise4");
+            return searchResponse.Documents.FirstOrDefault();
         }
     }
 }
