@@ -12,6 +12,9 @@ namespace CoffeeFinderApp.IntegrationTests
 {
     public class CoffeeFinderAppTests
     {
+        //Kraków - 50.048456, 19.961603
+        //Katowice - 50.262950, 19.013930
+
         private string IndexName => "devwarsztaty";
 
         [OneTimeSetUp]
