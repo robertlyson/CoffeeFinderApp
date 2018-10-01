@@ -1,0 +1,564 @@
+{
+	"html_attributions": [],
+	"results": [{
+			"geometry": {
+				"location": {
+					"lat": 50.2570372,
+					"lng": 19.0140084
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25834617989272,
+						"lng": 19.01531477989272
+					},
+					"southwest": {
+						"lat": 50.25564652010727,
+						"lng": 19.01261512010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+			"id": "0622ffa73454513cf36b09717a3016ca90744ddf",
+			"name": "Synergia",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104192999001268779008/photos\">Dominik Ciesielski</a>"
+					],
+					"photo_reference": "CmRaAAAAiLazXtKcyCssh96qoa8PjbHCeQNETBUzXUSNW26YAzi_AmQ1BALCcT9l7mfBVNXxXFapnaHC3Tt00Y2bgK1CvixkpYfqiDT4sZOrqDDxTpJzAwlEJ_YN7IQHd9T9e6vuEhARNT-bI6zFst7lmisMxezAGhQXn4UyfQfAhg1I3ujJQlnyJlp3VA",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJ_9eG_UbOFkcRiE7ITxtYJTo",
+			"plus_code": {
+				"compound_code": "7247+RJ Katowice",
+				"global_code": "9F2X7247+RJ"
+			},
+			"rating": 4.7,
+			"reference": "ChIJ_9eG_UbOFkcRiE7ITxtYJTo",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"meal_takeaway",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Andrzeja 29/2, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.2489973,
+					"lng": 19.0039032
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25034712989272,
+						"lng": 19.00525302989272
+					},
+					"southwest": {
+						"lat": 50.24764747010728,
+						"lng": 19.00255337010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "744597349a7f0ecf98411ceff1a76dcd5de06e12",
+			"name": "Akvo",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [{
+					"height": 2603,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/101758988914869875861/photos\">Łukasz Małecki</a>"
+					],
+					"photo_reference": "CmRaAAAA5vwHdjVUixRjrCplhP737CBFpu756L7hI9AXn4531ain6vA6nhRqMz1B3PuyLyoHb6xf6Tvwxm3Ri2aXktTGrW4ZY7pQ2JntkXto75UGZFKN1hv_AJw9d_1N0IwqNArFEhDhrHmeyjRoY5XDJGgZ9_quGhRTRiboMaR-9N9H03I1ffR2_qvo5Q",
+					"width": 3908
+				}
+			],
+			"place_id": "ChIJGfPezVzOFkcRCLqfFcl3We0",
+			"plus_code": {
+				"compound_code": "62X3+HH Katowice",
+				"global_code": "9F2X62X3+HH"
+			},
+			"rating": 5,
+			"reference": "ChIJGfPezVzOFkcRCLqfFcl3We0",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Mikołowska 72, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.25857999999999,
+					"lng": 19.022435
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25993252989272,
+						"lng": 19.02378572989272
+					},
+					"southwest": {
+						"lat": 50.25723287010727,
+						"lng": 19.02108607010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "52cbb76e6e14e7d42f7fff87d40440fa54c4eda9",
+			"name": "Little Hanoi...and more!",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/116240726979407674541/photos\">Bart Maloot JR</a>"
+					],
+					"photo_reference": "CmRaAAAAnHTKLxNOBLu6jafPE5ipQBmwBvg8AptwfyUGSjQ6y6rtII5aO_5SOStpIq3vxre1Ham-7DelNqnFyZnc4voVtpeOD-N9WsggepJ06qCp4rnAj5X5DKxrlfgDRZAaia88EhA5TMEnQU3DaNUi45O-7tjYGhQdui6cvJK6ETm6VZ7myasyPUf5fA",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJrfpT2TfOFkcRG16jeEZ2clE",
+			"plus_code": {
+				"compound_code": "725C+CX Katowice",
+				"global_code": "9F2X725C+CX"
+			},
+			"rating": 4.5,
+			"reference": "ChIJrfpT2TfOFkcRG16jeEZ2clE",
+			"scope": "GOOGLE",
+			"types": [
+				"meal_takeaway",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Staromiejska 4, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.25487409999999,
+					"lng": 19.0275167
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25623367989272,
+						"lng": 19.02879037989272
+					},
+					"southwest": {
+						"lat": 50.25353402010727,
+						"lng": 19.02609072010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "a50c7198d6178a1835df3b8e186b1242e69eeb15",
+			"name": "Pierogarnia PierRóg",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [{
+					"height": 2000,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/109261807289021445426/photos\">Pierogarnia Pierróg</a>"
+					],
+					"photo_reference": "CmRaAAAAdIaMEmgYLxZktQPbnEW5eQ6_hNMX0vKDmBfd0JHyRxn9Vu-BKoD8YeabXR23KI_KGow9nzz2L444GdySKmM4YTtkGECCB9gdEyRm2uODsSzLkX6l8QsnpobKePRJRA90EhDVBVfSeww_vIp25djVecLqGhSusV7JGsAyNZCEArqk4qLvjTCkmw",
+					"width": 3008
+				}
+			],
+			"place_id": "ChIJi1xJSErOFkcRmYrgY1VbOhA",
+			"plus_code": {
+				"compound_code": "723H+W2 Katowice",
+				"global_code": "9F2X723H+W2"
+			},
+			"rating": 4.5,
+			"reference": "ChIJi1xJSErOFkcRmYrgY1VbOhA",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Francuska 18a, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.262547,
+					"lng": 19.006012
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.26404417989271,
+						"lng": 19.00744857989272
+					},
+					"southwest": {
+						"lat": 50.26134452010727,
+						"lng": 19.00474892010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "9309eb85b3884c88df46d7f63cd791ee9af453b6",
+			"name": "Cafe Punkt 44",
+			"photos": [{
+					"height": 960,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/112773392961501040441/photos\">Coffeemagic</a>"
+					],
+					"photo_reference": "CmRaAAAAwzJRlM9y6mTaxMQPzyUWzzeNsB2eYZQRElwrjqknBKMh4swvWfmmoX2baKqLKyycHfwA0cA6sQl7hxuOXwplUDt2oTHBrPTXk0yu7FodK4XMonbERYcDJjx8d4OFWp3_EhA6Zdhil-PHsDGn-vGAcceJGhSvsOZW-TppJKuOEBBZqTkhldkSOw",
+					"width": 1280
+				}
+			],
+			"place_id": "ChIJt64VZxXOFkcRMEtzdUFYZ3A",
+			"plus_code": {
+				"compound_code": "7274+2C Katowice",
+				"global_code": "9F2X7274+2C"
+			},
+			"rating": 2.9,
+			"reference": "ChIJt64VZxXOFkcRMEtzdUFYZ3A",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Gliwicka 44, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.2556421,
+					"lng": 19.0288551
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25701412989272,
+						"lng": 19.03020907989272
+					},
+					"southwest": {
+						"lat": 50.25431447010727,
+						"lng": 19.02750942010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "55099435d3c61d19dcbf85d8489316dfd0ead96b",
+			"name": "BackStage",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [{
+					"height": 2368,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/117541599476725158732/photos\">M Jot</a>"
+					],
+					"photo_reference": "CmRaAAAAS48kNsoSutGPCecNvLTvorPHYO4K_8pKjCnd2LaTlgN6raeRJqXXANGRKq9-B9040peurIV5qvAakYu5SCnbqoZdKLgex43u0m5-ZM9OLMzWF3PZwj4gfVYaWUtWLcLAEhCD9D1ffjvueoAx2gZL3zgsGhTgqM7ATWl2YbVBt_bxH4f_v3tqdg",
+					"width": 4224
+				}
+			],
+			"place_id": "ChIJpZuwXErOFkcRRfqK1XZAoxM",
+			"plus_code": {
+				"compound_code": "724H+7G Katowice",
+				"global_code": "9F2X724H+7G"
+			},
+			"rating": 4.5,
+			"reference": "ChIJpZuwXErOFkcRRfqK1XZAoxM",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Wojewódzka 31, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.258167,
+					"lng": 19.021455
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25949647989273,
+						"lng": 19.02290687989272
+					},
+					"southwest": {
+						"lat": 50.25679682010728,
+						"lng": 19.02020722010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "54a992673330ff970a2ed12a23cd0275d70ab5c7",
+			"name": "Cafe Kattowitz",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [{
+					"height": 642,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104654585739042546718/photos\">A Google User</a>"
+					],
+					"photo_reference": "CmRaAAAAAwLDMwpTMUIqCeHB2csBoyCQgtZKC4cC5rfGNoT8Pglqninq1pPsPVQeZHtvc1V3uL4R99rEwACNnuBIG3pOl6EoOKWqCOqnAczXsotnOUrqdgpvbQnF7vVWhohIbdllEhDg_HlE63hI8e2Jt-ZkYOH-GhS0cK6E1tsVExWFH-0S947yFS5eGw",
+					"width": 960
+				}
+			],
+			"place_id": "ChIJZxoVH0jOFkcRZFxRPHusTbE",
+			"plus_code": {
+				"compound_code": "725C+7H Katowice",
+				"global_code": "9F2X725C+7H"
+			},
+			"rating": 4.5,
+			"reference": "ChIJZxoVH0jOFkcRZFxRPHusTbE",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"cafe",
+				"store",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "7, Świętego Jana, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.26165109999999,
+					"lng": 19.0128468
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.26305272989273,
+						"lng": 19.01425472989272
+					},
+					"southwest": {
+						"lat": 50.26035307010728,
+						"lng": 19.01155507010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "9f19a2b40af9f4e1446ca961096cd375bae1b524",
+			"name": "Coffee Synergia Dobre Miejsce",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [{
+					"height": 1762,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/110390326334474997592/photos\">A Google User</a>"
+					],
+					"photo_reference": "CmRaAAAA4WNFm5rxA10zJyKrcPCQzvk9BoYPXk5yZ4I2vEjUJrIl7GyWz5Z_Yc29C3LksB5KHtmQi2CioUgKlm0nSRRFAtvzPicc_E77A1uYzEDb0SFpVaFf95_SwNK_RuKGXz9KEhD3w5RplOZySjKFdnNsBDW_GhQhmSvKbyeVH-eye3bdDPnsZvmOGg",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJuWNKOj_OFkcRxPG574HbHk8",
+			"plus_code": {
+				"compound_code": "7267+M4 Katowice",
+				"global_code": "9F2X7267+M4"
+			},
+			"rating": 4.6,
+			"reference": "ChIJuWNKOj_OFkcRxPG574HbHk8",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"store",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Opolska 18, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.2623891,
+					"lng": 19.0150885
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.26381032989272,
+						"lng": 19.01651377989272
+					},
+					"southwest": {
+						"lat": 50.26111067010728,
+						"lng": 19.01381412010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "c79c3455bca8c570ff37c151670f52078427a971",
+			"name": "Classica. Restauracja & Kawiarnia",
+			"place_id": "ChIJN3QmKjnOFkcRZWJZeKE7kO4",
+			"plus_code": {
+				"compound_code": "7268+X2 Katowice",
+				"global_code": "9F2X7268+X2"
+			},
+			"rating": 0,
+			"reference": "ChIJN3QmKjnOFkcRZWJZeKE7kO4",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"cafe",
+				"store",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Mickiewicza 32, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.2533567,
+					"lng": 19.0223135
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25469832989272,
+						"lng": 19.02373632989272
+					},
+					"southwest": {
+						"lat": 50.25199867010727,
+						"lng": 19.02103667010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+			"id": "5d99b5d247a55f0b7deb6b83add02b4736d1f342",
+			"name": "Botanika",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [{
+					"height": 3024,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/113669682560164771650/photos\">Marcin Rzońca</a>"
+					],
+					"photo_reference": "CmRaAAAAQkvfWqGAJ2WbcEZZkVHm2E6hGy5LIGwitvG77KnFUcpeV_H6jBaF3iw4NhPQeFnrpxSrpmbG4nXt09pLC_Nrb8_RzM8qZUqkWPvZwUD97s_9Iavf9c0vS4dO0DChsVXMEhDCxvzVqXME9cgp6XmUTNbhGhS99mP2yt6rt5j5clY36qek84QJrQ",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJf1dqSEnOFkcR8lg3a1Dj9N8",
+			"rating": 4.6,
+			"reference": "ChIJf1dqSEnOFkcR8lg3a1Dj9N8",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"store",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Sienkiewicza 27, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.2594787,
+					"lng": 19.0183983
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.26082962989272,
+						"lng": 19.01969397989272
+					},
+					"southwest": {
+						"lat": 50.25812997010728,
+						"lng": 19.01699432010728
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "f99c53befe4ee5a21221552ac07f64bab8bded70",
+			"name": "Kofeina Corner",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [{
+					"height": 4608,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/102625949879138292379/photos\">Maciej Kitajewski</a>"
+					],
+					"photo_reference": "CmRaAAAAW_TN_PDXDgmQgY0KkPBbbHL_4P92V0SO3uB3-T3pcQHhvNQxChBzgj7TMWx4gTV8KD0MPJYuqKcTnkQHBuXJt5uG94YKjWq5JNWCyaexa9X5zV5EyExA4gvtdTtuwfu3EhBXNtcNSkMfRW5B4GRwNlHOGhQ_lJbrBvPsa0wJFcXfCy8MpzE_FA",
+					"width": 3456
+				}
+			],
+			"place_id": "ChIJFz1kcjjOFkcR-OY4VYdXb68",
+			"plus_code": {
+				"compound_code": "7259+Q9 Katowice",
+				"global_code": "9F2X7259+Q9"
+			},
+			"rating": 4,
+			"reference": "ChIJFz1kcjjOFkcR-OY4VYdXb68",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "plac Wilhelma Szewczyka 1, Katowice"
+		}, {
+			"geometry": {
+				"location": {
+					"lat": 50.257044,
+					"lng": 19.0293
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.25848342989272,
+						"lng": 19.03066912989271
+					},
+					"southwest": {
+						"lat": 50.25578377010727,
+						"lng": 19.02796947010727
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+			"id": "999455913a8395efeae3ff6dd374526638050874",
+			"name": "Coffee Ways",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [{
+					"height": 801,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/115789698139995953409/photos\">A Google User</a>"
+					],
+					"photo_reference": "CmRaAAAAJHcLW94YzjAjDDJ5ghoyZrRkf3usQ2ySLbsUNOSEEf1T2MSCZB2xbE-SIkt4S1rqsiJZ4eBBkwqYxcuF32cBCY4TiudhwI74oL4_98XK7PA36nQsnLr4zLbFISZE6QAjEhDwg-cUrFIpqHkhJDCsPMcqGhRd2-ksUxYhCfpX9zwOESicSH1DTw",
+					"width": 1200
+				}
+			],
+			"place_id": "ChIJxUPgdUrOFkcRCfIyvufxx_s",
+			"plus_code": {
+				"compound_code": "724H+RP Katowice",
+				"global_code": "9F2X724H+RP"
+			},
+			"rating": 4.5,
+			"reference": "ChIJxUPgdUrOFkcRCfIyvufxx_s",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Mariacka 37, Katowice"
+		}
+	],
+	"status": "OK"
+}
