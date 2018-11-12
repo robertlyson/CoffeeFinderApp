@@ -16,6 +16,9 @@ namespace CoffeeFinderApp.IntegrationTests
         //Katowice - 50.262950, 19.013930
 
         private string IndexName => "devwarsztaty";
+        //codecool
+        private readonly GeoLocation OurLocation = new GeoLocation(50.048456, 19.961603);
+        private readonly string NearMe = "BAL";
 
         [OneTimeSetUp]
         public void OneTimeSetUp()
@@ -59,7 +62,7 @@ namespace CoffeeFinderApp.IntegrationTests
 
             var actual = response.Count;
 
-            Assert.AreEqual(78, actual, $"Not all of documents have been indexed. Actual count: {actual}, should be 78");
+            Assert.AreEqual(90, actual, $"Not all of documents have been indexed. Actual count: {actual}, should be 78");
         }
         
         [Test]
@@ -81,9 +84,9 @@ namespace CoffeeFinderApp.IntegrationTests
         public async Task FindCoffeeNearMe()
         {
             var actual = await new WhereToGoForCoffee(ElasticClient())
-                .NearMe(50.048456, 19.961603);
+                .NearMe(OurLocation.Latitude, OurLocation.Longitude);
 
-            Assert.AreEqual("BAL", actual.Name);
+            Assert.AreEqual(NearMe, actual.Name);
         }
 
         [Test]
