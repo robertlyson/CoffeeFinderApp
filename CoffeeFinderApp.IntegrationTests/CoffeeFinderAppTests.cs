@@ -93,7 +93,7 @@ namespace CoffeeFinderApp.IntegrationTests
         public async Task FindMyFavCoffeeNearMe()
         {
             var actual = await new WhereToGoForCoffee(ElasticClient())
-                .NearMe("costa", 50.048456, 19.961603);
+                .NearMe("costa", OurLocation.Latitude, OurLocation.Longitude);
 
             Assert.AreEqual("COSTA COFFEE", actual.Name);
         }
