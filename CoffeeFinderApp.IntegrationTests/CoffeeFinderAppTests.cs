@@ -14,8 +14,13 @@ namespace CoffeeFinderApp.IntegrationTests
     {
         private string IndexName => "devwarsztaty";
         //codecool
+        /*
         private readonly GeoLocation OurLocation = new GeoLocation(50.048456, 19.961603);
         private readonly string NearMe = "BAL";
+        */
+        //Skyrise
+        private readonly GeoLocation OurLocation = new GeoLocation(50.262950, 19.013930);
+        private readonly string NearMe = "Classica. Restauracja & Kawiarnia";
 
         [OneTimeSetUp]
         public void OneTimeSetUp()
